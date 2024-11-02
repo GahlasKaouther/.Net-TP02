@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2emeDSI\\Atelier.NET\\tp2\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAED2F6-F55C-49A3-ABFF-A463BE52A064}|Atelier2 ex2\\Atelier2 ex2.csproj|d:\\2emedsi\\atelier.net\\tp2\\ex2\\atelier2 ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CAED2F6-F55C-49A3-ABFF-A463BE52A064}|Atelier2 ex2\\Atelier2 ex2.csproj|solutionrelative:atelier2 ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAED2F6-F55C-49A3-ABFF-A463BE52A064}|Atelier2 ex2\\Atelier2 ex2.csproj|D:\\2emeDSI\\Atelier.NET\\tp2\\Ex2\\atelier2 ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAED2F6-F55C-49A3-ABFF-A463BE52A064}|Atelier2 ex2\\Atelier2 ex2.csproj|solutionrelative:atelier2 ex2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2emeDSI\\Atelier.NET\\tp2\\Ex2\\Atelier2 ex2\\Form1.cs",
+              "RelativeDocumentMoniker": "Atelier2 ex2\\Form1.cs",
+              "ToolTip": "D:\\2emeDSI\\Atelier.NET\\tp2\\Ex2\\Atelier2 ex2\\Form1.cs",
+              "RelativeToolTip": "Atelier2 ex2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:51:42.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2emeDSI\\Atelier.NET\\tp2\\Ex2\\Atelier2 ex2\\Form1.cs",
+              "RelativeDocumentMoniker": "Atelier2 ex2\\Form1.cs",
+              "ToolTip": "D:\\2emeDSI\\Atelier.NET\\tp2\\Ex2\\Atelier2 ex2\\Form1.cs [Design]",
+              "RelativeToolTip": "Atelier2 ex2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:49:25.324Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

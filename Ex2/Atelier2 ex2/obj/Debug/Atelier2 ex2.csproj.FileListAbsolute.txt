@@ -1,0 +1,10 @@
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\bin\Debug\Atelier2 ex2.exe.config
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\bin\Debug\Atelier2 ex2.exe
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\bin\Debug\Atelier2 ex2.pdb
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2 ex2.csproj.AssemblyReference.cache
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2_ex2.Form1.resources
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2_ex2.Properties.Resources.resources
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2 ex2.csproj.GenerateResource.cache
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2 ex2.csproj.CoreCompileInputs.cache
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2 ex2.exe
+D:\2emeDSI\Atelier.NET\tp2\Ex2\Atelier2 ex2\obj\Debug\Atelier2 ex2.pdb

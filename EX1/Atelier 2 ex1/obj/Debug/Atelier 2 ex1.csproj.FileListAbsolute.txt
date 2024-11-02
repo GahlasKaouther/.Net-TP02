@@ -1,0 +1,20 @@
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\bin\Debug\Atelier 2 ex1.exe.config
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\bin\Debug\Atelier 2 ex1.exe
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\bin\Debug\Atelier 2 ex1.pdb
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.csproj.AssemblyReference.cache
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier_2_ex1.Form1.resources
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier_2_ex1.Properties.Resources.resources
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.csproj.GenerateResource.cache
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.csproj.CoreCompileInputs.cache
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.exe
+D:\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.pdb
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\bin\Debug\Atelier 2 ex1.exe.config
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\bin\Debug\Atelier 2 ex1.exe
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\bin\Debug\Atelier 2 ex1.pdb
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.csproj.AssemblyReference.cache
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier_2_ex1.Form1.resources
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier_2_ex1.Properties.Resources.resources
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.csproj.GenerateResource.cache
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.csproj.CoreCompileInputs.cache
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.exe
+D:\2emeDSI\Atelier.NET\tp2\ex1\Atelier 2 ex1\obj\Debug\Atelier 2 ex1.pdb
